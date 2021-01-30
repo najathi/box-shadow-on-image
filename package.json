@@ -1,6 +1,6 @@
 {
   "name": "boxshadowonimage",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "box shadow of images",
   "main": "index.js",
   "scripts": {
