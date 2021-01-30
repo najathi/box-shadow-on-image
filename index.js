@@ -1,6 +1,6 @@
 function boxShadow(options) {
 
-    let images = document.querySelector('.box-shadow-on-image');
+    let images = document.querySelectorAll('.box-shadow-on-image');
 
     if (options.shadow_type === 'hard') {
         options.shadow_type = '0px';
