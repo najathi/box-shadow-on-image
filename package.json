@@ -1,0 +1,23 @@
+{
+  "name": "boxshadowonimage",
+  "version": "1.0.0",
+  "description": "box shadow of images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/najathi/box-shadow-on-image.git"
+  },
+  "keywords": [
+    "box",
+    "shadow"
+  ],
+  "author": "najathi <najathi777@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/najathi/box-shadow-on-image/issues"
+  },
+  "homepage": "https://github.com/najathi/box-shadow-on-image#readme"
+}
